@@ -1,0 +1,7 @@
+C:\Users\Kote\source\repos\Free\Free\bin\Debug\Free.exe.config
+C:\Users\Kote\source\repos\Free\Free\bin\Debug\Free.exe
+C:\Users\Kote\source\repos\Free\Free\bin\Debug\Free.pdb
+C:\Users\Kote\source\repos\Free\Free\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\Kote\source\repos\Free\Free\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Kote\source\repos\Free\Free\obj\Debug\Free.exe
+C:\Users\Kote\source\repos\Free\Free\obj\Debug\Free.pdb
